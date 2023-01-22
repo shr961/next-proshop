@@ -1,0 +1,6 @@
+@import "../node_modules/shabnam-font/dist/font-face.css";
+
+@font-face {
+  font-family: Haftad;
+  src: url("../assets//fonts/Haftad.ttf") format("truetype");
+}
